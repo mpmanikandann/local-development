@@ -27,7 +27,7 @@ On the screen below make sure to choose 'Use Git and optional Unix tools from th
 ## Local cookbook development workflow
 ---
 
-### create new cookbook using Berkshelf
+### create new cookbook
 `chef generate pipeline`
 
 ### change directory to new cookbook
