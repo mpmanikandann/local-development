@@ -28,7 +28,7 @@ On the screen below make sure to choose 'Use Git and optional Unix tools from th
 ---
 
 ### create new cookbook
-`chef generate pipeline`
+`chef generate cookbook pipeline`
 
 ### change directory to new cookbook
 `cd pipeline`
